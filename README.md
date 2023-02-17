@@ -1,3 +1,3 @@
 # AdsPostX
 
-A description of this package.
+AdsPostX Swift Package for AdsPostX iOS SDK.
