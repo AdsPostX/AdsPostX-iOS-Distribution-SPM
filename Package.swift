@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdsPostX",
-            url: "https://adpx.b-cdn.net/ios/1.0.4/AdsPostX.xcframework.zip",
+            url: "https://adpx.b-cdn.net/ios/1.0.5/AdsPostX.xcframework.zip",
             checksum:
-                "e07c087058285e913f8b054aea7e3ffa770659e4db8056c6967c42af7eaa85fd")
+                "b4cdc38999af2737ff4dc6c9aedc13d4a137adb40fe5818bb320318e84c92908")
     ]
 )
